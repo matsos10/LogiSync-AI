@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "overview": "Overview",
+    "inventory": "Inventory",
+    "deliveries": "Deliveries",
+    "settings": "Settings"
+  },
+  "header": {
+    "searchPlaceholder": "Search products...",
+    "myAccount": "My Account",
+    "settings": "Settings",
+    "support": "Support",
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "upgradeTitle": "Upgrade to Pro",
+    "upgradeDescription": "Unlock all features and get unlimited access to our support team.",
+    "upgradeButton": "Upgrade"
+  },
+  "dashboard": {
+    "cards": {
+      "totalStock": "Total Stock",
+      "unitsInAllWarehouses": "Units in all warehouses",
+      "lowStockItems": "Low Stock Items",
+      "requireReordering": "Require reordering",
+      "shipmentsInTransit": "Shipments In Transit",
+      "onTheWayToCustomers": "On the way to customers",
+      "forecastedRevenue": "Forecasted Revenue",
+      "next30Days": "AI prediction for next 30 days"
+    },
+    "forecast": {
+      "title": "AI Demand Forecast"
+    },
+    "activity": {
+      "title": "Recent Activity",
+      "noActivity": "No recent activity.",
+      "shipmentCreated": "Shipment created",
+      "shipmentUpdated": "Shipment status updated to"
+    }
+  }
+}

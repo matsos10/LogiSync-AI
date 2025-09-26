@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "overview": "Aperçu",
+    "inventory": "Inventaire",
+    "deliveries": "Livraisons",
+    "settings": "Paramètres"
+  },
+  "header": {
+    "searchPlaceholder": "Rechercher des produits...",
+    "myAccount": "Mon Compte",
+    "settings": "Paramètres",
+    "support": "Support",
+    "logout": "Déconnexion"
+  },
+  "sidebar": {
+    "upgradeTitle": "Passer à Pro",
+    "upgradeDescription": "Débloquez toutes les fonctionnalités et obtenez un accès illimité à notre équipe de support.",
+    "upgradeButton": "Mettre à niveau"
+  },
+  "dashboard": {
+    "cards": {
+      "totalStock": "Stock Total",
+      "unitsInAllWarehouses": "Unités dans tous les entrep��ts",
+      "lowStockItems": "Articles en Stock Faible",
+      "requireReordering": "Nécessitent une nouvelle commande",
+      "shipmentsInTransit": "Expéditions en Transit",
+      "onTheWayToCustomers": "En route vers les clients",
+      "forecastedRevenue": "Revenu Prévu",
+      "next30Days": "Prédiction IA pour les 30 prochains jours"
+    },
+    "forecast": {
+      "title": "Prévision de la Demande par IA"
+    },
+    "activity": {
+      "title": "Activité Récente",
+      "noActivity": "Aucune activité récente.",
+      "shipmentCreated": "Expédition créée",
+      "shipmentUpdated": "Statut de l'expédition mis à jour à"
+    }
+  }
+}
