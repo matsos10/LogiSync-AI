@@ -2,7 +2,7 @@
 
 An AI-powered SaaS platform for optimizing logistics and supply chain management, from demand forecasting to delivery planning.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/matsos10/LogiSync-AI)
 
 LogiSync AI is a cutting-edge, AI-powered SaaS platform designed to revolutionize logistics and supply chain management for modern businesses. It directly addresses critical industry pain points such as inefficient stock management, costly delivery routes, and unforeseen supply disruptions. The platform provides a suite of intelligent tools including AI-driven demand forecasting, automated inventory optimization with smart alerts and auto-ordering, AI-powered delivery route planning, and proactive disruption detection.
 
@@ -102,7 +102,7 @@ This command will build the frontend assets and deploy both the static site and 
 
 Alternatively, you can deploy directly from your GitHub repository with one click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/matsos10/LogiSync-AI)
 
 ## 📂 Project Structure
 
